@@ -1,0 +1,7 @@
+fastapi==0.115.6
+pipdeptree==2.24.0
+python-keycloak==5.1.1
+setuptools==68.2.0
+uvicorn==0.34.0
+websockets==14.1
+wheel==0.41.2
